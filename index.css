@@ -1,0 +1,46 @@
+
+body{
+    background-color: black;
+    padding-top: 25px;
+    text-align: center;
+    background-image: url(./clock.jpg);
+}
+.box{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
+    width: 40%;
+    height: 600px;
+    padding: 2px 16px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px;
+    background-color: #efefef !important;
+    border-radius: 20px;
+    background: linear-gradient( #8a2387, #e94057, #f27121) ;
+}
+
+h1{
+    display: inline-block;
+    width: 100px;
+    color: #efefef;
+    padding-top: 170px;
+
+}
+
+
+
+
+
+
+.button {
+    background: linear-gradient( #8a2387, #e94057, #f27121) ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+  }
